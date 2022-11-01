@@ -30,7 +30,7 @@ const FooterItem = [
   {
     name: "Email",
     icon: "/icon-email.png",
-    url: "mailto:test@abc.com",
+    url: "mailto:bewelltech@gmx.us",
     type: "email",
   },
 ];

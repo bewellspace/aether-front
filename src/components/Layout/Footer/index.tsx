@@ -18,7 +18,7 @@ const FooterItem = [
   {
     name: "Telegram",
     icon: "/icon-telegram-1.png",
-    url: "http://t.me/theaetheroffic",
+    url: "https://t.me/theaetherofficial",
     type: "blank",
   },
   {

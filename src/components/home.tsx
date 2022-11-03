@@ -36,7 +36,7 @@ const Hero = () => {
     },
     {
       icon: "/icon-telegram.png",
-      url: "http://t.me/theaetheroffic",
+      url: "https://t.me/theaetherofficial",
       type: "blank",
     },
     {
@@ -388,7 +388,7 @@ const About = () => {
             position: "absolute",
             width: "25vw",
             right: "15%",
-            top: "120px",
+            top: "220px",
             gap: 30,
             zIndex: 3,
             [theme.fn.smallerThan("xs")]: {

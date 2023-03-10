@@ -27,12 +27,12 @@ const FooterItem = [
     url: "https://twitter.com/TheAether_io",
     type: "blank",
   },
-  {
-    name: "Email",
-    icon: "/icon-email.png",
-    url: "mailto:bewelltech@gmx.us",
-    type: "email",
-  },
+  // {
+  //   name: "Email",
+  //   icon: "/icon-email.png",
+  //   url: "mailto:bewelltech@gmx.us",
+  //   type: "email",
+  // },
 ];
 
 const Footer = () => {
